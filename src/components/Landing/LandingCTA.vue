@@ -11,11 +11,11 @@
 		<div class="mt-12 flex flex-col sm:flex-row justify-between flex-wrap gap-8">
 			<div class="flex-1">
 				<p class="text-xl text-text font-semibold">Phone</p>
-				<p class="text-lg text-text/80 font-medium">+62 812 461 0261 (Kadek Darmayasa)</p>
+				<p class="text-lg text-text/80 font-medium">+62 813 3776 0265 (Bagus Indra)</p>
 			</div>
 			<div class="flex-1">
 				<p class="text-xl text-text font-semibold">Email</p>
-				<p class="text-lg text-text/80 font-medium">bbmtours1@gmail.com</p>
+				<p class="text-lg text-text/80 font-medium">bagusastika009@gmail.com</p>
 			</div>
 			<div class="flex-1">
 				<p class="text-xl text-text font-semibold">Social</p>
