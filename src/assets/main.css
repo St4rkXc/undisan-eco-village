@@ -10,5 +10,11 @@
     .my-badge{
         @apply py-1 px-3 border border-primary rounded-3xl bg-transparent text-text tracking-[0.2em] font-semibold uppercase text-xs
     }
+    .navlink{
+        @apply px-3 py-2 hover:bg-gray-200 rounded-lg text-text font-medium text-base duration-200
+    }
 }
 
+.p-tab-active{
+    @apply text-text !important
+}

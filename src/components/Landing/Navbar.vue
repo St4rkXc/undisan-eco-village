@@ -2,16 +2,14 @@
 	import logoNav from '@/assets/Images/logonav.png'
 </script>
 <template>
-	<div class="navbar container mx-auto">
+	<div class="navbar container mx-auto sticky top-0 z-50 ">
 		<div class="navbar-start">
-
 			<div class="flex items-center space-x-4">
 				<img :src="logoNav" />
 				<p class="text-xl text-text font-semibold">Undisan Eco Village</p>
 			</div>
 		</div>
 		<div class="navbar-center">
-
 		</div>
 		<div class="navbar-end">
 			<div class="dropdown dropdown-end">
@@ -39,10 +37,10 @@
 				</div>
 			</div>
 			<div class=" space-x-4 hidden lg:flex">
-				<a href="">Item 1</a>
-				<a href="">Item 2</a>
-				<a href="">Item 3</a>
-				<a href="">Item 4</a>
+				<a href="" class="navlink">Item 1</a>
+				<a href="" class="navlink">Item 2</a>
+				<a href="" class="navlink">Item 3</a>
+				<a href="" class="navlink">Item 4</a>
 			</div>
 		</div>
 	</div>

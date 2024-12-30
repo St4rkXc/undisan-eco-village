@@ -30,7 +30,7 @@ export default {
                 mytheme: {
                     primary: '#25252B',
                     secondary: '#636376',
-                    'base-100': '#EFEFEF' /* background image */,
+                    'base-100': '#FFFFFF' /* background image */,
                 },
             },
             'dark',
