@@ -21,7 +21,7 @@
 				<p class="text-xl text-text font-semibold">Social</p>
 				<div class="flex gap-3">
 					<a href="http://wa.me/+6281337760265" target="_blank" class="pi pi-whatsapp text-xl"></a>
-					<a href="bagusastika009@gmail.com" target="_blank" class="pi pi-envelope text-xl"></a>
+					<a href="mailto:bagusastika009@gmail.com" target="" class="pi pi-envelope text-xl"></a>
 				</div>
 			</div>
 		</div>

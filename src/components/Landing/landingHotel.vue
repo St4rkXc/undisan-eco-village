@@ -72,7 +72,7 @@ const onSlideChange = () => {
 				Stay & Enjoy <br />
 				Undisan Eco Village
 			</h2>
-			<p class="text-text/80 text-center">
+			<p class="text-text/80 text-center mt-4">
 				Undisan Eco Village menawarkan pengalaman yang tenang dan mendalam di alam, memungkinkan pengunjung untuk bersantai dan terhubung kembali dengan lingkungan. Tempat
 				ini menjadi destinasi sempurna bagi mereka yang mencari kedamaian dan petualangan yang selaras dengan alam.
 			</p>
