@@ -8,10 +8,10 @@ import KerajinanImg from '@/assets/Images/Kerajinan.jpg'
 import MinyakImg from '@/assets/Images/MinyakKelapa.jpg'
 </script>
 <template>
-	<section class="container mx-auto py-[100px] px-3" id="dayaTarik">
-		<img :src="Ecovillgeimg" alt="" class="rounded-3xl w-full h-[600px] object-cover" />
+	<section class="container mx-auto py-[100px] px-3" id="pesona">
+		<img :src="Ecovillgeimg" alt="" class="rounded-3xl w-full h-[450px] lg:h-[600px] object-cover" />
 		<div class="flex flex-col 2xl:flex-row 2xl:justify-between 2xl:items-center gap-y-8 gap-x-24 mt-16">
-			<div class="max-w-[800px] flex flex-col">
+			<div class="max-w-[800px] flex flex-col gap-y-2 md:gap-y-0">
 				<div class="my-badge w-fit">undisan</div>
 				<h1 class="section-title max-w-[800px]">Pesona & Daya Tarik Desa Undisan</h1>
 			</div>
@@ -33,7 +33,7 @@ import MinyakImg from '@/assets/Images/MinyakKelapa.jpg'
 				</div>
 				<div class="">
 					<img :src="VanillaFarmImg" alt="" class="w-full h-[400px] object-cover rounded-3xl" />
-					<p class="text-text text-xl font-semibold p-2">Organic Villa Farm</p>
+					<p class="text-text text-xl font-semibold p-2">Organic Vannila Farm</p>
 				</div>
 			</div>
 			<div class="pb-3 border-b-2 border-b-primary/40 w-full text-primary text-lg font-semibold mt-12">Daya Tarik Lainnya</div>

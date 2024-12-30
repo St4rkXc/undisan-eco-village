@@ -3,7 +3,7 @@ import HeroImage from '@/assets/Images/Hero.png'
 </script>
 
 <template>
-	<header class="container mx-auto pt-[50px] pb-[100px] px-3">
+	<header class="container mx-auto pt-[50px] pb-[100px] px-3" id="hero">
 		<div class="flex flex-col 2xl:flex-row 2xl:justify-between 2xl:items-center gap-y-4 gap-x-24">
 			<div class="max-w-[800px] flex flex-col gap-y-2 md:gap-y-0">
 				<div class="my-badge w-fit">

@@ -12,7 +12,7 @@ function tabs(tabName) {
 </script>
 
 <template>
-	<section class="container mx-auto py-[100px] px-3" id="company">
+	<section class="container mx-auto py-[100px] px-3" id="funfact">
 		<div class="flex flex-col items-center justify-center mx-auto">
 			<div class="my-badge">undisan</div>
 			<h2 class="section-title">Funfact Desa Undisan</h2>
@@ -50,7 +50,7 @@ function tabs(tabName) {
 		<div class="mt-16">
 			<!-- Conditional rendering for each tab -->
 			<div v-show="activeTab === 'content1'">
-				<div class="flex flex-col lg:flex-row gap-8">
+				<div class="flex flex-col xl:flex-row gap-8">
 					<img :src="ProfesiImg" alt="" />
 					<div class="space-y-4">
 						<h3 class="text-2xl font-semibold text-text">Profesi Masyarakat</h3>
