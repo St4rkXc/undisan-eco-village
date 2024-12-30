@@ -29,7 +29,7 @@ onUnmounted(() => {
 			<div class="navbar-start">
 				<div class="flex items-center space-x-4">
 					<img :src="logoNav" />
-					<p class="text-xl text-text font-semibold">Undisan <span class="hidden sm:inline">Eco Village</span></p>
+					<p class="text-xl text-text font-semibold">UNDISAN</p>
 				</div>
 			</div>
 			<div class="navbar-end">

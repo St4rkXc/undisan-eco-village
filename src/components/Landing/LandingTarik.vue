@@ -33,7 +33,7 @@ import MinyakImg from '@/assets/Images/MinyakKelapa.jpg'
 				</div>
 				<div class="">
 					<img :src="VanillaFarmImg" alt="" class="w-full h-[400px] object-cover rounded-3xl" />
-					<p class="text-text text-xl font-semibold p-2">Organic Vannila Farm by Pak Putu Catur</p>
+					<p class="text-text text-xl font-semibold p-2">Organic Vanilla Farm by Putu Catur</p>
 				</div>
 			</div>
 			<div class="pb-3 border-b-2 border-b-primary/40 w-full text-primary text-lg font-semibold mt-12">Daya Tarik Lainnya</div>
