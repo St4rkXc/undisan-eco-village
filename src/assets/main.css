@@ -1,7 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-.p-tab-active{
-    @apply text-primary !important;
+@layer components {
+    .section-title {
+        @apply text-2xl font-semibold lg:text-[56px] text-text leading-tight;
+    }
 }
+
