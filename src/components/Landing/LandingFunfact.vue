@@ -12,12 +12,12 @@ function tabs(tabName) {
 </script>
 
 <template>
-	<section class="container mx-auto py-[100px]" id="company">
+	<section class="container mx-auto py-[100px] px-3" id="company">
 		<div class="flex flex-col items-center justify-center mx-auto">
 			<div class="my-badge">undisan</div>
 			<h2 class="section-title">Funfact Desa Undisan</h2>
 		</div>
-		<div class="flex flex-ol lg:flex-row mt-16">
+		<div class="flex flex-col lg:flex-row mt-16">
 			<!-- Bind active classes dynamically -->
 			<p
 				:class="[

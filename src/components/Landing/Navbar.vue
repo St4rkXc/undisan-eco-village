@@ -1,3 +1,5 @@
+<!-- eslint-disable vue/multi-word-component-names -->
+// eslint-disable-next-line vue/multi-word-component-names
 <script setup>
 	import logoNav from '@/assets/Images/logonav.png'
 </script>
@@ -6,11 +8,10 @@
 		<div class="navbar-start">
 			<div class="flex items-center space-x-4">
 				<img :src="logoNav" />
-				<p class="text-xl text-text font-semibold">Undisan Eco Village</p>
+				<p class="text-xl text-text font-semibold">Undisan <span class="hidden sm:inline">Eco Village</span> </p>
 			</div>
 		</div>
-		<div class="navbar-center">
-		</div>
+		
 		<div class="navbar-end">
 			<div class="dropdown dropdown-end">
 				<div tabindex="0" role="button" class="btn btn-ghost lg:hidden">
